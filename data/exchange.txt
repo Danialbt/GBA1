@@ -1,0 +1,330 @@
+Transcript	Gene	Chr	Genomic_pos	cDNA_pos	cDNA_ref	cDNA_alt	Transcript_pos	Direction	Allele	Exon	Codon_pos	Codon_ref	Codon_alt	AA_pos	AA_ref	AA_alt	Aln_pos	Vartype	Domain	Domain_color																																																																							
+NM_001005742	GBA1	1	155210881	23	G	C	t.8	-	C	-	-	-	-	8	R	T	-	Missense	Signal peptide	Signal peptide																																																																							
+NM_001005742	GBA1	1	155210502	34	C	T	t.12	-	G	-	-	-	-	12	P	S	-	Missense	Signal peptide	Signal peptide																																																																							
+NM_001005742	GBA1	1	155210498	38	A	G	t.13	-	T	-	-	-	-	13	K	R	-	Missense	Signal peptide	Signal peptide																																																																							
+NM_001005742	GBA1	1	155210478	58	A	G	t.20	-	T	-	-	-	-	20	I	V	-	Missense	Signal peptide	Signal peptide																																																																							
+NM_001005742	GBA1	1	155210463	73	C	G	t.25	-	G	-	-	-	-	25	L	V	-	Missense	Signal peptide	Signal peptide																																																																							
+NM_001005742	GBA1	1	155210421	115	G	C	t.39	-	C	-	-	-	-	39	G	R	-	Missense	Signal peptide	Signal peptide																																																																							
+NM_001005742	GBA1	1	155209848	136	A	G	t.46	-	T	-	-	-	-	46	K	E	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155209763	221	G	C	t.74	-	C	-	-	-	-	74	G	A	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155209752	232	C	T	t.78	-	G	-	-	-	-	78	R	C	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155209751	233	G	A	t.78	-	C	-	-	-	-	78	R	H	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155209737	247	C	T	t.83	-	G	-	-	-	-	83	R	C	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155209506	355	G	A	t.119	-	C	-	-	-	-	119	G	R	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208441	455	G	C	t.152	-	C	-	-	-	-	152	G	A	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208421	475	C	T	t.159	-	G	-	-	-	-	159	R	W	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208420	476	G	A	t.159	-	C	-	-	-	-	159	R	Q	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208411	485	T	C	t.162	-	A	-	-	-	-	162	M	T	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208388	508	C	T	t.170	-	G	-	-	-	-	170	R	C	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208379	517	A	C	t.173	-	T	-	-	-	-	173	T	P	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208361	535	G	C	t.179	-	C	-	-	-	-	179	D	H	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208081	605	G	A	t.202	-	C	-	-	-	-	202	R	Q	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208055	631	G	C	t.211	-	C	-	-	-	-	211	V	L	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208048	638	T	C	t.213	-	A	-	-	-	-	213	L	P	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208019	667	T	C	t.223	-	A	-	-	-	-	223	W	R	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208006	680	A	G	t.227	-	T	-	-	-	-	227	N	S	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208005	681	T	G	t.227	-	A	-	-	-	-	227	N	K	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207992	694	G	T	t.232	-	C	-	-	-	-	232	G	W	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207991	695	G	A	t.232	-	C	-	-	-	-	232	G	E	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207986	700	G	T	t.234	-	C	-	-	-	-	234	G	W	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207985	701	G	A	t.234	-	C	-	-	-	-	234	G	E	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207983	703	T	C	t.235	-	A	-	-	-	-	235	S	P	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207980	706	C	T	t.236	-	G	-	-	-	-	236	L	F	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207967	719	C	A	t.240	-	G	-	-	-	-	240	P	H	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207965	721	G	A	t.241	-	C	-	-	-	-	241	G	R	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207955	731	A	G	t.244	-	T	-	-	-	-	244	Y	C	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207932	754	T	A	t.252	-	A	-	-	-	-	252	F	I	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207367	764	T	A	t.255	-	A	-	-	-	-	255	F	Y	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207364	767	T	C	t.256	-	A	-	-	-	-	256	L	P	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207249	882	T	G	t.294	-	A	-	-	-	-	294	H	Q	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207244	887	G	A	t.296	-	C	-	-	-	-	296	R	Q	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207235	896	T	C	t.299	-	A	-	-	-	-	299	I	T	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207230	901	C	T	t.301	-	G	-	-	-	-	301	R	C	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207229	902	G	A	t.301	-	C	-	-	-	-	301	R	H	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207224	907	C	A	t.303	-	G	-	-	-	-	303	L	I	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207221	910	G	A	t.304	-	C	-	-	-	-	304	G	S	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207203	928	A	G	t.310	-	T	-	-	-	-	310	S	G	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207185	946	C	T	t.316	-	G	-	-	-	-	316	R	C	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206232	1028	A	G	t.343	-	T	-	-	-	-	343	Y	C	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206209	1051	T	A	t.351	-	A	-	-	-	-	351	W	R	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206203	1057	C	G	t.353	-	G	-	-	-	-	353	L	V	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206197	1063	T	A	t.355	-	A	-	-	-	-	355	F	I	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206175	1085	C	T	t.362	-	G	-	-	-	-	362	T	I	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206172	1088	T	C	t.363	-	A	-	-	-	-	363	L	P	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206167	1093	G	A	t.365	-	C	-	-	-	-	365	E	K	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206158	1102	C	T	t.368	-	G	-	-	-	-	368	R	C	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206157	1103	G	A	t.368	-	C	-	-	-	-	368	R	H	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206113	1147	G	A	t.383	-	C	-	-	-	-	383	G	S	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206104	1156	T	C	t.386	-	A	-	-	-	-	386	F	L	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206104	1156	T	C	t.386	-	A	-	-	-	-	386	F	L	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206082	1178	T	C	t.393	-	A	-	-	-	-	393	L	P	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206052	1208	G	A	t.403	-	C	-	-	-	-	403	S	N	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206040	1220	T	C	t.407	-	A	-	-	-	-	407	I	T	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206037	1223	C	T	t.408	-	G	-	-	-	-	408	T	M	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206036	1224	G	A	t.408	-	C	-	-	-	-	408	T	T	-	synonymous	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205634	1226	A	G	t.409	-	T	-	-	-	-	409	N	S	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205620	1240	G	T	t.414	-	C	-	-	-	-	414	V	L	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205620	1240	G	T	t.414	-	C	-	-	-	-	414	V	L	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205619	1241	T	G	t.414	-	A	-	-	-	-	414	V	G	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205614	1246	G	A	t.416	-	C	-	-	-	-	416	G	S	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205613	1247	G	A	t.416	-	C	-	-	-	-	416	G	D	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205611	1249	T	G	t.417	-	A	-	-	-	-	417	W	G	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205605	1255	G	A	t.419	-	C	-	-	-	-	419	D	N	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205604	1256	A	C	t.419	-	T	-	-	-	-	419	D	A	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205585	1275	C	A	t.425	-	G	-	-	-	-	425	N	K	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205583	1277	C	T	t.426	-	G	-	-	-	-	426	P	L	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205581	1279	G	A	t.427	-	C	-	-	-	-	427	E	K	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205571	1289	C	T	t.430	-	G	-	-	-	-	430	P	L	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205568	1292	A	G	t.431	-	T	-	-	-	-	431	N	S	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205566	1294	T	A	t.432	-	A	-	-	-	-	432	W	R	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205563	1297	G	T	t.433	-	C	-	-	-	-	433	V	L	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205560	1300	C	T	t.434	-	G	-	-	-	-	434	R	C	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205556	1304	A	C	t.435	-	T	-	-	-	-	435	N	T	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205551	1309	G	A	t.437	-	C	-	-	-	-	437	V	I	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205518	1342	G	C	t.448	-	C	-	-	-	-	448	D	H	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205098	1393	T	G	t.465	-	A	-	-	-	-	465	F	V	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205092	1399	C	T	t.467	-	G	-	-	-	-	467	P	S	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205051	1440	G	C	t.480	-	C	-	-	-	-	480	K	N	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205047	1444	G	A	t.482	-	C	-	-	-	-	482	D	N	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205043	1448	T	C	t.483	-	A	-	-	-	-	483	L	P	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205043	1448	T	G	t.483	-	A	-	-	-	-	483	L	R	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205038	1453	G	A	t.485	-	C	-	-	-	-	485	A	T	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205027	1464	G	C	t.488	-	C	-	-	-	-	488	L	L	-	synonymous	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205019	1472	C	T	t.491	-	G	-	-	-	-	491	P	L	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205017	1474	G	A	t.492	-	C	-	-	-	-	492	D	N	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205013	1478	G	A	t.493	-	C	-	-	-	-	493	G	D	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205008	1483	G	C	t.495	-	C	-	-	-	-	495	A	P	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205004	1487	T	A	t.496	-	A	-	-	-	-	496	V	D	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205004	1487	T	C	t.496	-	A	-	-	-	-	496	V	A	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204996	1495	G	C	t.499	-	C	-	-	-	-	499	V	L	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204996	1495	G	C	t.499	-	C	-	-	-	-	499	V	L	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204996	1495	G	A	t.499	-	C	-	-	-	-	499	V	M	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204987	1504	C	T	t.502	-	G	-	-	-	-	502	R	C	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204986	1505	G	C	t.502	-	C	-	-	-	-	502	R	P	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204986	1505	G	A	t.502	-	C	-	-	-	-	502	R	H	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204887	1510	T	C	t.504	-	A	-	-	-	-	504	S	P	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204882	1515	G	A	t.505	-	C	-	-	-	-	505	K	K	-	synonymous	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204835	1562	C	A	t.521	-	G	-	-	-	-	521	T	K	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204818	1579	T	A	t.527	-	A	-	-	-	-	527	S	T	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204815	1582	A	G	t.528	-	T	-	-	-	-	528	I	V	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204811	1586	A	G	t.529	-	T	-	-	-	-	529	H	R	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204793	1604	G	A	t.535	-	C	-	-	-	-	535	R	H	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204790	1607	A	G	t.536	-	T	-	-	-	-	536	Q	R	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155206068	1192	C	T	t.398		G					398	R	X		PTV	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155204797	1600	C	T	t.534		G					534	R	C		Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155208042	644	C	A	t.215		G					215	A	D		Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208415	481	C	T	t.161		G					161	P	S		Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155209694	290	C	G	t.97		G					97	A	G		Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155209803	181	T	C	t.61		A					61	Y	H		Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155204794	1603	C	T	t.535		G					535	R	C		Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204988	1503	C	G	t.501		G					501	N	K		Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205034	1457	T	A	t.486		A					486	V	E		Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205564	1296	G	A	t.432		C					432	W	X		PTV	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205604	1256	A	T	t.419		T					419	D	V		Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205632	1228	C	A	t.410		G					410	L	I		Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205633	1227	C	A	t.409		G					409	N	K		Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206136	1124	T	C	t.375		A					375	L	P		Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206254	1006	A	T	t.336		T					336	T	S		Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207217	914	C	T	t.305		G					305	P	L		Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207282	849	C	A	t.283		G					283	Y	X		PTV	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207932	754	T	G	t.252		A					252	F	V		Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207976	710	A	C	t.237		T					237	K	T		Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207997	689	T	G	t.230		A					230	V	G		Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208012	674	A	G	t.225		T					225	K	R		Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208039	647	G	C	t.216		A					216	S	T		Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208051	635	C	G	t.212		G					212	S	X		PTV	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208073	613	C	T	t.205		G					205	Q	X		PTV	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208082	604	C	T	t.202		G					202	R	X		PTV	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208388	508	C	A	t.170		C					170	R	S		Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155209430	431	T	G	t.144		A					144	L	R		Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155209511	350	T	C	t.117		A					117	V	A		Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155209748	236	A	G	t.79		T					79	Y	C		Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155210451	84	G	GG	t.29		C					29	L	*		frameshift insertion	Signal peptide	Signal peptide														.						.		NM_001171812	84	8	G	29		29	L	8	c.84dupG	p.L29Afs*18	NM_000157	84	8	G	29		29	L	8	c.84dupG	p.L29Afs*18	NM_001005741	84	8	G	29		29	L	8	c.84dupG	p.L29Afs*18													p.Leu29Ala	-	-	-	
+NM_001005742	GBA1	1	155210890	14	G	A	t.5		C					5	S	N		Missense	Signal peptide	Signal peptide																																																																							
+NM_001005742	GBA1	1	155210876	28	G	T	t.10	-	C	-	-	-	-	10	E	X	-	PTV	Signal peptide	Signal peptide																																																																							
+NM_001005742	GBA1	1	155210496	40	C	A	t.14	-	G	-	-	-	-	14	P	T	-	Missense	Signal peptide	Signal peptide																																																																							
+NM_001005742	GBA1	1	155210494	42	T	G	t.14	-	A	-	-	-	-	14	P	P	-	synonymous	Signal peptide	Signal peptide																																																																							
+NM_001005742	GBA1	1	155210492	44	T	C	t.15	-	A	-	-	-	-	15	L	S	-	Missense	Signal peptide	Signal peptide																																																																							
+NM_001005742	GBA1	1	155210490	46	A	G	t.16	-	T	-	-	-	-	16	S	G	-	Missense	Signal peptide	Signal peptide																																																																							
+NM_001005742	GBA1	1	155210441	95	A	G	t.32	-	T	-	-	-	-	32	Q	R	-	Missense	Signal peptide	Signal peptide																																																																							
+NM_001005742	GBA1	1	155210438	98	C	T	t.33	-	G	-	-	-	-	33	A	V	-	Missense	Signal peptide	Signal peptide																																																																							
+NM_001005742	GBA1	1	155210428	108	G	A	t.36	-	C	-	-	-	-	36	W	X	-	PTV	Signal peptide	Signal peptide																																																																							
+NM_001005742	GBA1	1	155210424	112	T	A	t.38	-	A	-	-	-	-	38	S	T	-	Missense	Signal peptide	Signal peptide																																																																							
+NM_001005742	GBA1	1	155209860	124	C	G	t.42	-	G	-	-	-	-	42	P	A	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155209858	126	C	T	t.42	-	G	-	-	-	-	42	P	P	-	synonymous	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155209839	145	G	A	t.49	-	C	-	-	-	-	49	G	S	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155209836	148	T	C	t.50	-	A	-	-	-	-	50	Y	H	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155209829	155	C	T	t.52	-	G	-	-	-	-	52	S	L	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155209828	156	G	A	t.52	-	C	-	-	-	-	52	S	S	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155209816	168	C	T	t.56	-	G	-	-	-	-	56	V	V	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155209814	170	G	C	t.57	-	C	-	-	-	-	57	C	S	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155209813	171	C	A	t.57	-	G	-	-	-	-	57	C	X	-	PTV	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155209811	173	A	G	t.58	-	T	-	-	-	-	58	N	S	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155209797	187	G	A	t.63	-	C	-	-	-	-	63	D	N	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155209772	212	C	T	t.71	-	G	-	-	-	-	71	P	L	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+																																																																																											
+NM_001005742	GBA1	1	155209758	226	T	G	t.76	-	A	-	-	-	-	76	F	V	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155209755	229	A	G	t.77	-	T	-	-	-	-	77	S	G	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155209730	254	G	A	t.85	-	C	-	-	-	-	85	G	E	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155209728	256	C	T	t.86	-	G	-	-	-	-	86	R	X	-	PTV	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155209725	259	C	T	t.87	-	G	-	-	-	-	87	R	W	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155209704	280	C	T	t.94	-	G	-	-	-	-	94	P	S	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155209701	283	A	G	t.95	-	T	-	-	-	-	95	I	V	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155209685	299	C	T	t.100	-	G	-	-	-	-	100	T	M	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155209684	300	G	A	t.100	-	C	-	-	-	-	100	T	T	-	synonymous	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155209553	308	G	T	t.103	-	C	-	-	-	-	103	G	V	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155209547	314	T	C	t.105	-	A	-	-	-	-	105	L	P	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155209547	314	T	A	t.105	-	A	-	-	-	-	105	L	Q	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155209511	350	T	C	t.118	-	A	-	-	-	-	118	V	A	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155209491	370	A	G	t.124	-	T	-	-	-	-	124	M	V	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155209490	371	T	C	t.124	-	A	-	-	-	-	124	M	T	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155209461	400	G	T	t.134	-	C	-	-	-	-	134	A	S	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155209431	430	C	A	t.144	-	G	-	-	-	-	144	L	I	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155209424	437	C	T	t.146	-	G	-	-	-	-	146	S	L	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155209421	440	A	G	t.147	-	T	-	-	-	-	147	Y	C	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208422	474	C	T	t.158	-	G	-	-	-	-	158	I	I	-	synonymous	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208416	480	A	T	t.160	-	T	-	-	-	-	160	V	V	-	synonymous	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208414	482	C	T	t.161	-	G	-	-	-	-	161	P	L	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208414	482	C	G	t.161	-	G	-	-	-	-	161	P	R	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208412	484	A	G	t.162	-	T	-	-	-	-	162	M	V	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208409	487	G	A	t.163	-	C	-	-	-	-	163	A	T	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208405	491	G	A	t.164	-	C	-	-	-	-	164	S	N	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208404	492	C	G	t.164	-	G	-	-	-	-	164	S	R	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208398	498	C	G	t.166	-	G	-	-	-	-	166	D	E	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208390	506	T	G	t.169	-	A	-	-	-	-	169	I	S	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208389	507	C	A	t.169	-	G	-	-	-	-	169	I	I	-	synonymous	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208387	509	G	T	t.170	-	C	-	-	-	-	170	R	L	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208387	509	G	A	t.170	-	C	-	-	-	-	170	R	H	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208375	521	A	G	t.174	-	T	-	-	-	-	174	Y	C	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208352	544	C	T	t.182	-	G	-	-	-	-	182	Q	X	-	PTV	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208350	546	G	A	t.182	-	C	-	-	-	-	182	Q	Q	-	synonymous	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208349	547	T	G	t.183	-	A	-	-	-	-	183	L	V	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208310	586	A	C	t.196	-	T	-	-	-	-	196	K	Q	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208087	599	T	A	t.200	-	A	-	-	-	-	200	I	N	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208082	604	C	T	t.202	-	G	-	-	-	-	202	R	X	-	PTV	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208060	626	G	A	t.209	-	C	-	-	-	-	209	R	H	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208051	635	C	G	t.212	-	G	-	-	-	-	212	S	X	-	PTV	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208050	636	A	C	t.212	-	T	-	-	-	-	212	S	S	-	synonymous	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208046	640	C	A	t.214	-	G	-	-	-	-	214	L	I	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208024	662	C	T	t.221	-	G	-	-	-	-	221	P	L	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208015	671	T	G	t.224	-	A	-	-	-	-	224	L	R	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208011	675	G	C	t.225	-	C	-	-	-	-	225	K	N	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208003	683	G	T	t.228	-	C	-	-	-	-	228	G	V	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155208001	685	G	A	t.229	-	C	-	-	-	-	229	A	T	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207993	693	T	A	t.231	-	A	-	-	-	-	231	N	K	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207992	694	G	A	t.232	-	C	-	-	-	-	232	G	R	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207990	696	G	A	t.232	-	C	-	-	-	-	232	G	G	-	synonymous	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207984	702	G	T	t.234	-	C	-	-	-	-	234	G	G	-	synonymous	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207979	707	T	C	t.236	-	A	-	-	-	-	236	L	P	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207977	709	A	G	t.237	-	T	-	-	-	-	237	K	E	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207974	712	G	A	t.238	-	C	-	-	-	-	238	G	R	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207946	740	C	G	t.247	-	G	-	-	-	-	247	T	S	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207946	740	C	T	t.247	-	G	-	-	-	-	247	T	I	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207945	741	C	T	t.247	-	G	-	-	-	-	247	T	T	-	synonymous	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207942	744	G	A	t.248	-	C	-	-	-	-	248	W	X	-	PTV	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207937	749	G	A	t.250	-	C	-	-	-	-	250	R	K	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207366	765	C	A	t.255	-	G	-	-	-	-	255	F	L	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207355	776	A	G	t.259	-	T	-	-	-	-	259	Y	C	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207330	801	G	A	t.267	-	C	-	-	-	-	267	W	X	-	PTV	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207299	832	G	A	t.278	-	C	-	-	-	-	278	E	K	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207280	851	C	T	t.284	-	G	-	-	-	-	284	P	L	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207272	859	T	C	t.287	-	A	-	-	-	-	287	C	R	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207266	865	G	A	t.289	-	C	-	-	-	-	289	G	S	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207265	866	G	T	t.289	-	C	-	-	-	-	289	G	V	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207245	886	C	T	t.296	-	G	-	-	-	-	296	R	X	-	PTV	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207229	902	G	C	t.301	-	C	-	-	-	-	301	R	P	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207224	907	C	G	t.303	-	G	-	-	-	-	303	L	V	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207214	917	C	T	t.306	-	G	-	-	-	-	306	T	I	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207210	921	C	T	t.307	-	G	-	-	-	-	307	L	L	-	synonymous	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207209	922	G	A	t.308	-	C	-	-	-	-	308	A	T	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207202	929	G	A	t.310	-	C	-	-	-	-	310	S	N	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207202	929	G	C	t.310	-	C	-	-	-	-	310	S	T	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207193	938	A	G	t.313	-	T	-	-	-	-	313	H	R	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207188	943	G	T	t.315	-	C	-	-	-	-	315	V	F	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207184	947	G	A	t.316	-	C	-	-	-	-	316	R	H	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207160	971	G	A	t.324	-	C	-	-	-	-	324	R	H	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155207143	988	T	A	t.330	-	A	-	-	-	-	330	W	R	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206248	1012	C	A	t.338	-	G	-	-	-	-	338	P	T	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206242	1018	G	A	t.340	-	C	-	-	-	-	340	A	T	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206220	1040	T	C	t.347	-	A	-	-	-	-	347	I	T	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206212	1048	C	T	t.350	-	G	-	-	-	-	350	H	Y	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206211	1049	A	G	t.350	-	T	-	-	-	-	350	H	R	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206206	1054	T	C	t.352	-	A	-	-	-	-	352	Y	H	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206194	1066	C	G	t.356	-	G	-	-	-	-	356	L	V	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206192	1068	G	A	t.356	-	C	-	-	-	-	356	L	L	-	synonymous	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206181	1079	A	G	t.360	-	T	-	-	-	-	360	K	R	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206173	1087	C	G	t.363	-	G	-	-	-	-	363	L	V	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206173	1087	C	A	t.363	-	G	-	-	-	-	363	L	I	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206170	1090	G	A	t.364	-	C	-	-	-	-	364	G	R	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206170	1090	G	T	t.364	-	C	-	-	-	-	364	G	W	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206165	1095	G	C	t.365	-	C	-	-	-	-	365	E	D	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206158	1102	C	G	t.368	-	G	-	-	-	-	368	R	G	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206135	1125	C	A	t.375	-	G	-	-	-	-	375	L	L	-	synonymous	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206127	1133	C	T	t.378	-	G	-	-	-	-	378	S	L	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206124	1136	A	C	t.379	-	T	-	-	-	-	379	E	A	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206118	1142	G	T	t.381	-	C	-	-	-	-	381	C	F	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206111	1149	C	T	t.383	-	G	-	-	-	-	383	G	G	-	synonymous	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206101	1159	T	G	t.387	-	A	-	-	-	-	387	W	G	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206093	1167	G	C	t.389	-	C	-	-	-	-	389	Q	H	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206088	1172	T	G	t.391	-	A	-	-	-	-	391	V	G	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206086	1174	C	T	t.392	-	G	-	-	-	-	392	R	W	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206074	1186	T	C	t.396	-	A	-	-	-	-	396	W	R	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206068	1192	C	T	t.398	-	G	-	-	-	-	398	R	X	-	PTV	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206060	1200	G	A	t.400	-	C	-	-	-	-	400	M	I	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206059	1201	C	T	t.401	-	G	-	-	-	-	401	Q	X	-	PTV	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206053	1207	A	C	t.403	-	T	-	-	-	-	403	S	R	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206051	1209	C	T	t.403	-	G	-	-	-	-	403	S	S	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206043	1217	T	A	t.406	-	A	-	-	-	-	406	I	N	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155206040	1220	T	A	t.407	-	A	-	-	-	-	407	I	N	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205628	1232	T	C	t.411	-	A	-	-	-	-	411	L	P	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205615	1245	C	T	t.415	-	G	-	-	-	-	415	V	V	-	synonymous	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205614	1246	G	T	t.416	-	C	-	-	-	-	416	G	C	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205611	1249	T	C	t.417	-	A	-	-	-	-	417	W	R	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205611	1249	.	.	t.417	-	.	-	-			417	W	T		Missense	D: TIM structure	TIM structure																																																																			p.Trp417Thr	44		0	0
+NM_001005742	GBA1	1	155205607	1253	C	T	t.418	-	G	-	-	-	-	418	T	I	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205605	1255	G	T	t.419	-	C	-	-	-	-	419	D	Y	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205599	1261	A	G	t.421	-	T	-	-	-	-	421	N	D	-	Missense	UNKNOWN	UNKNOWN																																																																							
+NM_001005742	GBA1	1	155205597	1263	C	A	t.421	-	G	-	-	-	-	421	N	K	-	Missense	UNKNOWN	UNKNOWN																																																																							
+NM_001005742	GBA1	1					t.422	-		-	-			422	L	fs		frameshift insertion	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																			p.Leu422fs*	51		0	0
+NM_001005742	GBA1	1	155205595	1265	T	G	t.422	-	A	-	-	-	-	422	L	R	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205592	1268	C	T	t.423	-	G	-	-	-	-	423	A	V	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205592	1268	C	A	t.423	-	G	-	-	-	-	423	A	D	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205574	1286	G	A	t.429	-	C	-	-	-	-	429	G	E	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205574	1286	G	T	t.429	-	C	-	-	-	-	429	G	V	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205564	1296	G	A	t.432	-	C	-	-	-	-	432	W	X	-	PTV	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205563	1297	G	A	t.433	-	C	-	-	-	-	433	V	M	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205548	1312	G	A	t.438	-	C	-	-	-	-	438	D	N	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205548	1312	G	C	t.438	-	C	-	-	-	-	438	D	H	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205514	1346	C	T	t.449	-	G	-	-	-	-	449	T	M	-	Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205513	1347	G	C	t.449	-	C	-	-	-	-	449	T	T	-	synonymous	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+NM_001005742	GBA1	1	155205499	1361	C	G	t.454	-	G	-	-	-	-	454	P	R	-	Missense	UNKNOWN	UNKNOWN																																																																							
+NM_001005742	GBA1	1	155205088	1403	A	G	t.468	-	T	-	-	-	-	468	E	G	-	Missense	D: TIM structure	TIM structure																																																																							
+NM_001005742	GBA1	1	155205078	1413	G	A	t.471	-	C	-	-	-	-	471	Q	Q	-	synonymous	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205036	1455	A	G	t.485	-	T	-	-	-	-	485	A	A	-	synonymous	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205018	1473	C	T	t.491	-	G	-	-	-	-	491	P	P	-	synonymous	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205017	1475	A	T	t.492	-	T	-	-	-	-	492	D	L	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205008	1483	G	T	t.495	-	C	-	-	-	-	495	A	S	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205002	1489	G	T	t.497	-	C	-	-	-	-	497	V	L	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155205001	1490	T	A	t.497	-	A	-	-	-	-	497	V	E	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204997	1494	C	T	t.498	-	G	-	-	-	-	498	V	V	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204994	1497	G	C	t.499	-	C	-	-	-	-	499	V	V	-	synonymous	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204992	1499	T	C	t.500	-	A	-	-	-	-	500	L	P	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204987	1504	C	A	t.502	-	G	-	-	-	-	502	R	S	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204890	1507	T	C	t.503	-	A	-	-	-	-	503	S	P	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204848	1549	G	C	t.517	-	C	-	-	-	-	517	G	R	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204829	1568	C	T	t.523	-	G	-	-	-	-	523	S	L	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204812	1585	C	T	t.529	-	G	-	-	-	-	529	H	Y	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204796	1601	G	A	t.534	-	C	-	-	-	-	534	R	H	-	Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+NM_001005742	GBA1	1	155204791	1606	C	T	t.536	-	G	-	-	-	-	536	Q	X	-	PTV	D: immunoglobulin like structure	immunoglobulin like structure																																																																							
+														333	V	M		Missense	D: TIM structure	TIM structure																																																																							
+														417	A	P		Missense	D: TIM structure	TIM structure																																																																							
+														32	Q	H		Missense	Signal peptide	Signal peptide																																																																							
+														149	S	A		Missense	D: TIM structure	TIM structure																																																																							
+														449	T	M		Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+														4	F	V		Missense	Signal peptide	Signal peptide																																																																							
+														426	P	P		Missense	D: antiparallel beta sheet structure	antiparallel beta sheet structure																																																																							
+														388	E	K		Missense	D: TIM structure	TIM structure																																																																							
+														123	G	G		synonymous	D: TIM structure	TIM structure																																																																							
+																																																																																											
+																																																																																											
+														528	I	L		Missense	D: immunoglobulin like structure	immunoglobulin like structure																																																																							

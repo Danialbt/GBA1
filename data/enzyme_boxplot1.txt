@@ -1,0 +1,29 @@
+Variants	Mean 	vartype	Control
+p.L500P	13.53	Unclassified	
+p.V333M 	6.70	Unclassified	
+p.A417P 	11.04 	Unclassified	
+p.G241R	5.01 	Severe	
+p.Q32H	12.51	Unclassified	
+p.R83C	10.33	Unclassified	
+p.N431S	7.79	Unclassified	
+p.S149A 	14.19	Unclassified	14.19
+p.T449M 	10.32	Unclassified	10.32
+p.F4V 	12.09	Unclassified	12.09
+p.P426P 	10.21	Unclassified	10.21
+p.E365K 	8.53	Unclassified	11.07
+p.N409S	6.27	Mild	11.65 
+p.L483P	7.47	Severe	7.21
+p.G123G	7.13	Severe	
+p.R535H	8.10	Risk	
+p.E365K	10.295	Risk	11.07
+p.T408M	7.65	Risk	7.79
+p.K13R	10.94	Unclassified	13.73
+p.N409S	0.30	Mild	6.06
+p.R502C	7.60	Severe	
+p.R78C	9.57	Unclassified	
+p.I528L	12.95	Unclassified	
+p.T336S	13.98	Unclassified	13.98
+p.G74A	10.66	Unclassified	10.16
+p.P426L	17.23	Mild	17.51
+p.K480N	14.77	Unclassified	16.60
+p.G2019S 	7.13	Severe	
