@@ -4,21 +4,14 @@
 
 ## Welcome to the GBA1 portal!
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+An interactive website for clinicians and researchers dedicated to comprehending GBA1-related disorders.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+## What is GBA1 gene?
 
-## Add your files
+This particular gene codes for a protein found in the lysosomal membrane. Its function involves breaking the beta-glucosidic bond in glycosylceramide, an intermediate compound in the process of glycolipid metabolism. Defects in this gene lead to Gaucher disease, a lysosomal storage disorder marked by the buildup of glucocerebrosides. There is a similar non-functional version of this gene, called a pseudogene, located about 12 kb downstream on chromosome 1. Through alternative splicing, various forms of the gene's transcripts are produced. This information was provided by RefSeq in January 2010.(https://www.genecards.org/cgi-bin/carddisp.pl?gene=GBA1)
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+Variations in the glucocerebrosidase gene (GBA) are prevalent genetic factors contributing to the risk of Parkinson's disease (PD). GBA is responsible for producing an enzyme found in lysosomes, which breaks down glucosylceramide and glucosylsphingosine into glucose residue and ceramide/sphingosine, respectively. Several pieces of evidence now connect decreased glucocerebrosidase activity to PD, even in individuals without GBA variations. This reduced enzyme activity is associated with an increase in the aggregation of alpha-synuclein. Additionally, numerous independent postmortem studies have indicated lower glucocerebrosidase activity in the brains of sporadic PD cases compared to control brains. Carrying GBA variations might impact the presentation of PD. PD patients who carry GBA variations experience an earlier onset of symptoms and a faster progression of both motor and cognitive symptoms compared to PD patients without these variations.
 
-```
-cd existing_repo
-git remote add origin https://gitlab.uni.lu/dbajgiran/gba1-shiny-app.git
-git branch -M main
-git push -uf origin main
-```
 
 ## Integrate with your tools
 
