@@ -1,0 +1,49 @@
+AA_ori	Cases	Earlyonset	Lateonset
+p.Leu303Ile	3	0	3
+p.Asp438His	1	1	0
+p.Phe76Val	1	1	0
+p.Val414Leu	1	1	0
+p.Val499Met	1	1	0
+p.Gly416Cys	1	0	1
+p.Tyr244Cys	1	0	1
+p.Leu483Pro	8	4	4
+p.Arg159Trp	7	4	3
+p.Asp448His	3	1	2
+p.Asn421Lys	2	2	0
+p.Gly364Arg	2	1	1
+p.Arg324His	2	0	2
+p.Phe252Ile	1	1	0
+p.Asn227Ser	1	1	0
+p.Pro161Leu	1	1	0
+p.Leu483Arg	1	0	1
+p.Ser146Leu	1	0	1
+p.Glu365Lys	1	0	1
+p.Arg202Gln	11	4	7
+p.Leu224Arg	2	1	1
+p.Ser310Gly	2	0	2
+p.Leu105Gln	1	1	0
+p.Asn231Lys	1	1	0
+p.Val497Glu	1	1	0
+p.Ala33Val	1	0	1
+p.Asp419Asn	1	0	1
+p.Leu363Val	1	0	1
+p.Pro14Pro	1	0	1
+p.Ser212Ser	1	0	1
+p.Ser403Ser	1	0	1
+p.Ser52Ser	1	0	1
+p.Ser77Gly	1	0	1
+p.Val160Val	1	0	1
+p.Val415Val	1	0	1
+p.Val499Val	3	3	0
+p.Ala495Pro			
+p.Leu483Pro			
+p.Gly241Arg	2	2	0
+p.Ser235Pro			
+p.Val230Gly			
+p.Asn227Ser			
+p.Ser16Gly	1	1	0
+p.Leu15Ser			
+p.Arg202Gln	1	0	1
+p.Val499Met			
+p.Arg202Gln	1	0	1
+p.Leu483Pro			
